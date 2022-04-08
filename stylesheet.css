@@ -1,0 +1,87 @@
+#Nav-Bar{
+	position: relative;
+	text-align: left;
+	top: 0;
+	margin-bottom: 0px;
+	z-index: 9;
+	font-size: 20px;
+	background-image: url("us.JPG");
+	width: 1430px;
+	height: 900px;
+	background-size: 100%;
+	color: black;
+	opacity: 200%;
+	background-attachment: fixed;
+	text-decoration: underline;
+}
+.links{
+	padding: 5px;
+	font-family: 'Beau Rivage', cursive;
+	font-size: 30px;
+	position: fixed;
+	text-align: right;
+	width: 99%;
+}
+h2{
+	margin-top: 0;
+	font-family: 'Passions Conflict', cursive;
+	font-size: 70px;
+	padding-top: 10px;
+}
+div{
+	position: relative;
+}
+#Dates{
+	background-color: #fafafa;
+	width: 1430px;
+	height: 300px;
+	padding-bottom: 0px;
+}
+table{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+th,td{
+	border-style: inset;
+	border-radius: 5px;
+	background-color: floralwhite;
+	padding-left: 10px;
+	text-align: center;
+}
+caption{
+	font-family: 'Dancing Script', cursive;
+	font-size: 20px;
+}
+#About-us{
+	font-family: 'Dancing Script', cursive;
+	text-align: center;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 20px;
+}
+p{
+	font-family: 'Great Vibes', cursive;
+	font-size: 25px;
+}
+#Pictures{
+	padding-top: 0px;
+	background-color: floralwhite;
+	text-align: center;
+	font-family: 'Dancing Script', cursive;
+	font-size: 20px;
+}
+.gallery{
+	float: left;
+	margin: 5px;
+}
+
+img{
+	border-style: solid;
+	border-color: black;
+}
+.pic-section{
+	padding-left: 110px;
+}
